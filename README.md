@@ -13,7 +13,6 @@ I'm going to start looking  official information about the Serpentine Tower Ques
 http://www.tibia.com/news/?subtopic=newsarchive&id=1507
 
 >**Q: Will you reveal something about Serpentine Tower Quest?**
-
 >**Count Tofifti:** Hey, I recently looked that Tower up and it's...  
 >**Knightmare (stern look):** SECRET!  
 >**Count Tofifti:** Well. Uhm. Yes, probably.  
