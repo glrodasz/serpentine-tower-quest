@@ -1,10 +1,10 @@
 # Serpentine Tower Quest
-This notes are the record of process trying to resolve the Serpentine Tower Quest.
+These notes are the record of the process trying to resolve the Serpentine Tower Quest.
 
 ## Facts
 I'm going to start looking  official information about the Serpentine Tower Quest.
 
-1. Search official topics about **Serpentine Tower Quest** in Tibia.com using the following query in Google:
+1) Search official topics about **Serpentine Tower Quest** in Tibia.com using the following query in Google:
 `site:www.tibia.com serpentine tower`
 
 ### Results in Chronological order
@@ -40,4 +40,19 @@ http://www.tibia.com/news/?subtopic=latestnews&id=1612
 >(...) The following theories, ideas and approaches to beat Serpentine Tower have been fully conceived by members of the Tibia community. Note that CipSoft assumes no liability for any damage that results to your character from following the suggestions mentioned... ;)
 
 ##### Conclusions
-1. The fact that Officially Cipsoft take again the topic about **Serpentine Tower Quest** means that there is high chance that the quest it is fully implemented.
+1. The fact that Officially CipSoft take again the topic about **Serpentine Tower Quest** means that there is high chance that the quest it is fully implemented.
+2. We shouldn't discard any of the published theories if the quests is not implemented yet they could be a good material for the implementation in some way.
+
+#### Feb 08 2012 - Your True Colour
+http://www.tibia.com/news/?subtopic=latestnews&id=1975
+
+#### Sep 12 2016 - A Night Full of Mysteries
+http://www.tibia.com/news/?subtopic=latestnews&id=3704
+
+2) Search in the [CM Post Archive](http://forum.tibia.com/forum/?subtopic=forum&action=cm_post_archive) if there is any interesting about the featured articles that includes the keyword **Serpentine Tower Quests**.
+
+_I filtered the search using as initial date the featured article published date to the end of the same month but I didn't find any relevant._
+
+## The current knowledge
+
+## The hypothesis
