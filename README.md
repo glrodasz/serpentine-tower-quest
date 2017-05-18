@@ -2,13 +2,13 @@
 These notes are the record of the process trying to resolve the Serpentine Tower Quest.
 
 # Table of contents
-- [Knowledge](#knowledge)
--- [Official News](#official-news)
--- [CM Post Archive](#cm-post-archive)
--- [Tibia Wikia Talk](#tibia-wikia-talks)
-- [Facts](#facts)
-- [Hypothesis](#hypothesis)
-- [Experiments](#experiments)
+* [Knowledge](#knowledge)
+  * [Official News](#official-news)
+  * [CM Post Archive](#cm-post-archive)
+  * [Tibia Wikia Talk](#tibia-wikia-talk)
+* [Facts](#facts)
+* [Hypothesis](#hypothesis)
+* [Experiments](#experiments)
 
 ## Knowledge
 I'm going to start looking  official information about the Serpentine Tower Quest.
