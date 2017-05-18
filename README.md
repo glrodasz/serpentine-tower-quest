@@ -1,6 +1,12 @@
 # Serpentine Tower Quest
 These notes are the record of the process trying to resolve the Serpentine Tower Quest.
 
+# Table of contents
+- [Facts](#facts)
+- [The current knowledge](#the-current-knowledge)
+- [The hypothesis](#the-hypothesis)
+- [The results](#the-results)
+
 ## Facts
 I'm going to start looking  official information about the Serpentine Tower Quest.
 
@@ -46,8 +52,23 @@ http://www.tibia.com/news/?subtopic=latestnews&id=1612
 #### Feb 08 2012 - Your True Colour
 http://www.tibia.com/news/?subtopic=latestnews&id=1975
 
+>2. You see a door. The door seems to be sealed against unwanted intruders.  
+>A) Break it down!  
+>B) Could this be... a clue to solve the serpentine tower?  
+>C) Oh, I'm sure I'm wanted. *knockknock* Open up and let the sunshine in!  
+>D) I know exactly what's behind that door and what requirements you have to meet to pass through. Of course, I meet those requirements. You don't think I came all this way unprepared, do you?
+
+##### Conclusions
+1. Again CipSoft mentions the **Serpentine Tower Quest** and that gives more importance.
+
 #### Sep 12 2016 - A Night Full of Mysteries
 http://www.tibia.com/news/?subtopic=latestnews&id=3704
+
+>When I was younger, someone told me that the sweaty cyclops Bencthyclthrtrprr would be willing to trade a warlord sword for 100 pieces of iron. Following up on this idea certainly helped me to get into shape but I'm still waiting for that warlord sword. I bet the Basilisk would scare Big Ben into handing it over.  
+>This serpent looks so harmless on first glance but its stone gaze strikes terror into the hearts of many. My brave dwarven friends dread that beast even though they managed to trap it with a cave-in. I've tried to break through to it to get rid of the slippery, sneaky creature but to no avail so far. I've even started to search the mines for any of those rumoured Basilisk eggs.
+One thing is clear: I cannot allow those renegade dwarfs to gain control over it. I recently overheard some adventurers talking about reaching the Basilisk through Dwacatra, the prison isle. One of them even insisted that the Serpentine Tower holds the key to solving all mysteries at once. But this is a story for another night or day."
+
+##### Conclusions
 
 2) Search in the [CM Post Archive](http://forum.tibia.com/forum/?subtopic=forum&action=cm_post_archive) if there is any interesting about the featured articles that includes the keyword **Serpentine Tower Quests**.
 
@@ -56,3 +77,9 @@ _I filtered the search using as initial date the featured article published date
 ## The current knowledge
 
 ## The hypothesis
+
+## The Expirements
+
+## The results
+
+Any relevant result it will written here.
