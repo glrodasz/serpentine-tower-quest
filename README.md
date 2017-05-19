@@ -11,18 +11,16 @@ These notes are the record of the process trying to resolve the Serpentine Tower
 * [Experiments](#experiments)
 
 ## Knowledge
-I'm going to start looking  official information about the Serpentine Tower Quest.
+I'm going to start looking  official/unofficial information about the Serpentine Tower Quest.
 
 #### Official News
 Search official topics about **Serpentine Tower Quest** in Tibia.com using the following query in Google:
-`site:www.tibia.com serpentine tower`
-
-_Results in chronological order_
+`site:www.tibia.com serpentine tower`. These are the results in chronological order:
 
 ##### Oct 22 2010 - Answers from the Content Team - Part 4
 http://www.tibia.com/news/?subtopic=newsarchive&id=1507
 
->**Q: Will you reveal something about Serpentine Tower Quest?**</br></br>
+>**Q: Will you reveal something about Serpentine Tower Quest?**</br>  
 >**Count Tofifti:** Hey, I recently looked that Tower up and it's...  
 >**Knightmare (stern look):** SECRET!  
 >**Count Tofifti:** Well. Uhm. Yes, probably.  
@@ -56,7 +54,7 @@ http://www.tibia.com/news/?subtopic=latestnews&id=1612
 ##### Feb 08 2012 - Your True Colour
 http://www.tibia.com/news/?subtopic=latestnews&id=1975
 
->2. You see a door. The door seems to be sealed against unwanted intruders.  
+>2) You see a door. The door seems to be sealed against unwanted intruders.</br>
 >A) Break it down!  
 >B) Could this be... a clue to solve the serpentine tower?  
 >C) Oh, I'm sure I'm wanted. *knockknock* Open up and let the sunshine in!  
@@ -73,21 +71,114 @@ http://www.tibia.com/news/?subtopic=latestnews&id=3704
 One thing is clear: I cannot allow those renegade dwarfs to gain control over it. I recently overheard some adventurers talking about reaching the Basilisk through Dwacatra, the prison isle. One of them even insisted that the Serpentine Tower holds the key to solving all mysteries at once. But this is a story for another night or day."
 
 ###### Conclusions
+// TODO
 
 ### CM Post Archive
-Search in the [CM Post Archive](http://forum.tibia.com/forum/?subtopic=forum&action=cm_post_archive) if there is any interesting about the featured articles that includes the keyword **Serpentine Tower Quests**.
-
-_I filtered the search using as initial date the featured article published date to the end of the same month but I didn't find any relevant._
+Search in the [CM Post Archive](http://forum.tibia.com/forum/?subtopic=forum&action=cm_post_archive) if there is any interesting about the featured articles that includes the keyword **Serpentine Tower Quest**. I filtered the search using as initial date the featured article published date to the end of the same month but I didn't find any relevant.
 
 ### Tibia Wikia Talk
-Look into the [Tibia Wikia discussion](http://tibia.wikia.com/wiki/Talk:Serpentine_Tower_Quest/Spoiler).
+Looking into the [Tibia Wikia discussion](http://tibia.wikia.com/wiki/Talk:Serpentine_Tower_Quest/Spoiler). I read a lot of theories that are kind of obvious that even I have tried. But I found some interesting things:
 
-_I read a lot of theories that are kind of obvious that even I have tried. But I found some interesting things._
+>(...) Also When u say this words.. he talks about it:</br>  
+>**Ascension:** The essence of the true gods is omnipresent in the universe. We all share this divine heritage, for every single one of us carries the divine spark inside him. This is the reason we all have a chance to ascend to godhood, too.  
+>**Akh:** The Akh is a tool. As long as it is alive it is a burden and source of weakness, but if you ascend to undeath it becomes a useful tool that can be used to work towards greater ends.  
+>**Mourned:** The dead mourn the living because they are weak and excluded from ascension.  
+>**Uthun:** The Uthun is the part of the trinity that is easiest to form. It consists of our recollections of the past and of our thoughts. It is that which determines who we are in this world and it gives us guidance throughout our existence.
+>**Rah:** The Rah is what the ignorant might call the soul. But it's more than that. It is the divine spark in all of us, the source of energy that keeps us alive.  
+>**Pharaoh:** The immortal pharaoh is our god and our example. He alone holds the secrets that will save us all from the greedy grasp of the false gods.  
+>**Time:** Time is your problem. It is no longer mine.  
+>**Scarab:** If you know how to listen to them they will reveal ancient secrets to you.  
+>**Ankrahmun:** This city is as old as the sands that surround it, and it is built on previous settlements that date back even further in time. Perhaps only the wise scarabs know the full story of this place.
 
->They are monsters not NPCs, you can target them, monsters are not suposed to be on pz unless you rope them or make them go in a hole or they spawn in there. At banuta theres used to be a pitfall and you could throw monsters into a PZ sone, they frezze and don't attack you (you cant attack them because you where in pz too) they still move to see you. That hole was fixed you can't do that anymore. In serpentine tower is the same. If you kill the FE and wait in the room you can see the Behemoth and the vampire does not give you a battle log simbol, why? because they are standing on a pz they can't attack you, if you stay in the room with the FE locked you will get battle simbol, FE is not in PZ (he can target you even locked). Even if you open those doors the behemoth and the vampire wont move they will just stay there taking damage because they are on a pz that does not let them move or attack. If some day the behemoth and the vampire gives you a battle simbol that means CIP changed the room so the doors could be open.
-Kwigon the sharpshooter 23:32, 24 May 2009 (UTC)
+>(Wapil 08:46, January 2, 2010 (UTC))
 
->you get battle simbol from vamp and behe now! Flipje 22:55, 14 July 2009 (UTC)
+We have to check what is the meaning of the NPC words and investigate deeper about [Akh'rah Uthun](http://tibia.wikia.com/wiki/Uthun#The_Uthun).
+
+>check this text that is on 1 of the books that is on the serpentine tower</br>  
+>_Mehrah asram cha mehe than. Uth a'thul at cha there. Orum tha cha elik jahara. Udhun zah fahr mal. Chamek at uthul hatradek asram. Mehrem alir iktha at uthun. Kasin tha Ur ch helim doh. Mah dah direm. Athul as hathu, athul as dofah, athul as mereth. Cha ukhtu muhn dahra. Sethor mah amin dah. At meruhm cha me dah. Chamek persim kaharah bah tufi. Moh dah rah. Moh Udhin cha uthul. Meheth Zuhl tha berah._  
+>compare it with sth demons yell: **CHAMEK ATH UTHUL ARAK!**  
+>im almost sure that it is the same language..  
+>maybe telling the text of the book to some1 who knows about demons or sth like that idk, maybe avar tar cuz he knows about the demon lords and things like that, i will check it out when i got time, maybe asking him about serpentine tower or telling him things the book says..  
+>or if u know any other npc that may know about demons and things like that u can try it out
+
+>Rydok Xenn 06:50, January 8, 2010 (UTC)
+
+We should try to decode the book. **Rydok Xenn** is right about the words that the [demon yells](http://tibia.wikia.com/wiki/Demon), so investigate about demon language could help to translate the book and looks like some NPC in Port Hope knows about the language.
+
+>The name and coiled construction of the tower are references to snakes. I found some interesting myths related to snakes on the web:
+
+>_"Poison and medicine
+Serpents are connected with poison and medicine. The snake's venom is associated with the chemicals of plants and fungi (...) that have the power to either heal, poison or provide expanded consciousness (and even the elixir of life and immortality) through divine intoxication."_ (https://en.wikipedia.org/wiki/Serpent_(symbolism))
+
+>On the counter there are leaves, twigs and moldy (fungus) cheese. NPCs mention immortality as the ultimate goal. Maybe someone was trying to cook this elixir. Another different myth regarding snakes:
+
+>_"Philip's angle was that the mixture of both the snake venom and blood was perhaps the original 'elixir of life' and this is what made his thesis refreshing and exciting. In his manuscript Philip stated that these two properties of the one snake were mixed in a 'human skull cap' - adding that this "bowl" was possibly the origin for the Holy Grail vessel."_ (http://www.garyosborn.moonfruit.net/#/serpent-grail-notes/4517532387)
+
+>There are slime (venom) and blood spots, and skulls in the room. Maybe, a different approach to get the elixir.
+
+>Thascius 18:24, May 1, 2010 (UTC)
+
+We should check what "elixirs" could be prepare in Tibia and if there is any relation with the **Serpentine Tower Quest**.
+
+>Hello everybody, this is my first edit in tibiawiki, i had been reading the discussion and I was investigating about this quest when i was pacc, on Honera. I looked for clues exclusively in the Tower and Ankramun libraries, and i noticed for something that could be very interesting, thinking like Cip and their word games...  
+>We find in serpentine Tower 8 "Researchnotes" ( 4*2 = 8 ), and each note haves a CODE (One letter and Four numbers)  
+>I will list the Codes in Order:  
+
+>74-08 G <--- Research into improving the Find Person spell.  
+>35-22 D <--- Research into the "Foeburner" spell.  
+>56-09 A <--- Summoning strong demonic creatures.  
+>33-16 H <--- Researching the "stoneskin" spell.  
+>88-04 F <--- XXXXXX research has been abandoned at the request of the pharaoh.  
+>77-04 D <--- Research into the "move earth" spell.  
+>44-33 C <--- (This is the one over the Table, Above the blood spot) Completion of the "Divination" spell.  
+>02-56 A <--- Research on the cat-eye spell.  
+
+>I tried Many things, first, I tried to order These Papers by alphabetical order, but no clue. second, i tried to make words with these letters, no clue, then I tried to order the Numbers, but I had no time doing so cuz of the pacc.
+
+>I find many suspicious things on these papers.
+
+>First, this is the ONLY place where you will find a "Paper", if is somewhere else you can find it. (post it please) but so far, i had only found these items in serpentine tower.
+
+>Second. The paper we find over the table (above the blood) haves different cualities compared with the rest, its "code" it's more regular than the other ones (44-33) and it's the only one with the "C" letter in the code.
+
+>As well, other papers have suspicious charasteristics, for example. the 88-04 F. It's the only "F", also it haves the Highest number
+
+>(88) and, moreover, it descripts a "XXXXXXX" Spell
+
+>Third. We can find several bonds with one paper and another. Example:  
+
+>35-22 D  
+>33-16 H  
+>44-33 C  
+>77-04 D  
+>88-04 F  
+
+>Unfortunately i couldn't complete this research and I'm not completely sure of it's Validity, but so far. nothing has been proven to be valid. And we have to keep an eye of EVERY detail of the tower and the possible places connected with it.  
+>Hope it Helps :D  
+
+>Beholder0904 04:36, August 29, 2010 (UTC)  
+
+// TODO
+
+>(...) Ashtamor from Venore can be part of serpentine tower quest. From ankrahmun books we know history about group of adventurers which are saved from the "hissing snakes". Snake can be here just High Templar Cobrass. Look that he is only creature that drop "vase". There is also amphora in behemoth room. Ashtamor is npc which sale vase and amphora. Here is what he says.
+
+>Ashtamor: I'm offering vases and amphoras, the perfect vessel for all kinds of dusty remains.  
+>As we all know after killing flame elemental there is only dust. There is also obtainable vampire dust.  
+>Ashtamor also can give you information about fire.  
+
+>**07:19 Hazga Roth [27]:** fire  
+>**07:19 Ashtamor:** The purging force of fire ... it helps to free souls and its smoke helps them to find their way to another world.
+
+>Is this reference to fire elemental also?
+
+>I also found 2 words which Ashtamor reacts on. -Slime and Creamatory (Look that slime is in serpentine tower on the table and in books of ankrahmun it is component of elixir)
+
+>**07:01 Hazga Roth [27]:** slime  
+>**07:01 Ashtamor:** This man is so old and looks so unhealthy that I expect him to become my customer every day.  
+>**07:03 Hazga Roth [27]:** crematory  
+>**07:03 Ashtamor:** Such an ugly word for this wonderful place. It's a door, a portal to a better world.
+
+// TODO
 
 ## Facts
 // TODO
