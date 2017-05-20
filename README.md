@@ -160,26 +160,6 @@ We should check what "elixirs" could be prepare in Tibia and if there is any rel
 
 // TODO
 
->(...) Ashtamor from Venore can be part of serpentine tower quest. From ankrahmun books we know history about group of adventurers which are saved from the "hissing snakes". Snake can be here just High Templar Cobrass. Look that he is only creature that drop "vase". There is also amphora in behemoth room. Ashtamor is npc which sale vase and amphora. Here is what he says.
-
->Ashtamor: I'm offering vases and amphoras, the perfect vessel for all kinds of dusty remains.  
->As we all know after killing flame elemental there is only dust. There is also obtainable vampire dust.  
->Ashtamor also can give you information about fire.  
-
->**07:19 Hazga Roth [27]:** fire  
->**07:19 Ashtamor:** The purging force of fire ... it helps to free souls and its smoke helps them to find their way to another world.
-
->Is this reference to fire elemental also?
-
->I also found 2 words which Ashtamor reacts on. -Slime and Creamatory (Look that slime is in serpentine tower on the table and in books of ankrahmun it is component of elixir)
-
->**07:01 Hazga Roth [27]:** slime  
->**07:01 Ashtamor:** This man is so old and looks so unhealthy that I expect him to become my customer every day.  
->**07:03 Hazga Roth [27]:** crematory  
->**07:03 Ashtamor:** Such an ugly word for this wonderful place. It's a door, a portal to a better world.
-
-// TODO
-
 ## Facts
 // TODO
 
