@@ -6,9 +6,6 @@ These notes are the record of the process trying to resolve the Serpentine Tower
   * [Official News](#official-news)
   * [CM Post Archive](#cm-post-archive)
   * [Tibia Wikia Talk](#tibia-wikia-talk)
-* [Facts](#facts)
-* [Hypothesis](#hypothesis)
-* [Experiments](#experiments)
 
 ## Knowledge
 I'm going to start looking  official/unofficial information about the Serpentine Tower Quest.
@@ -153,4 +150,4 @@ We should check what "elixirs" could be prepare in Tibia and if there is any rel
 >Unfortunately i couldn't complete this research and I'm not completely sure of it's Validity, but so far. nothing has been proven to be valid. And we have to keep an eye of EVERY detail of the tower and the possible places connected with it.  
 >Hope it Helps :D  
 
->Beholder0904 04:36, August 29, 2010 (UTC)  
+>Beholder0904 04:36, August 29, 2010 (UTC)
