@@ -70,9 +70,6 @@ http://www.tibia.com/news/?subtopic=latestnews&id=3704
 >This serpent looks so harmless on first glance but its stone gaze strikes terror into the hearts of many. My brave dwarven friends dread that beast even though they managed to trap it with a cave-in. I've tried to break through to it to get rid of the slippery, sneaky creature but to no avail so far. I've even started to search the mines for any of those rumoured Basilisk eggs.
 One thing is clear: I cannot allow those renegade dwarfs to gain control over it. I recently overheard some adventurers talking about reaching the Basilisk through Dwacatra, the prison isle. One of them even insisted that the Serpentine Tower holds the key to solving all mysteries at once. But this is a story for another night or day."
 
-###### Conclusions
-// TODO
-
 ### CM Post Archive
 Search in the [CM Post Archive](http://forum.tibia.com/forum/?subtopic=forum&action=cm_post_archive) if there is any interesting about the featured articles that includes the keyword **Serpentine Tower Quest**. I filtered the search using as initial date the featured article published date to the end of the same month but I didn't find any relevant.
 
@@ -157,14 +154,3 @@ We should check what "elixirs" could be prepare in Tibia and if there is any rel
 >Hope it Helps :D  
 
 >Beholder0904 04:36, August 29, 2010 (UTC)  
-
-// TODO
-
-## Facts
-// TODO
-
-## Hypothesis
-// TODO
-
-## Experiments
-// TODO
